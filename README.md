@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, Coders! I am <a href="#">Eric</a> 🧑‍💻</h1>
+<h1 align="center">Hi, Coders! I am <a href="https://chipper-taffy-e8cd4c.netlify.app/" target="_blank">Eric</a> 🧑‍💻</h1>
 </div>
 
 <img src="https://i.imgur.com/VvkdEvZ.png">
