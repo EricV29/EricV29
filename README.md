@@ -11,7 +11,7 @@
 
 
 ## About Me ✌
-- 📱🖥️ I’ve recently learned how to create: **Desktop and mobile applications**
+- 📱🖥️ I’ve recently learned how to create: **Desktop and web applications**
 
 - 🤓 I’m currently learning: **C# .NET**
 
