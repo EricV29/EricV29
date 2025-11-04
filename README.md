@@ -2,7 +2,7 @@
 <h1 align="center">Hi, Coders! I am <a href="#">Eric</a> 🧑‍💻</h1>
 </div>
 
-<img src="https://i.imgur.com/ZxusTje.jpg">
+<img src="https://i.imgur.com/VvkdEvZ.png">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-villeda-reyes-584856281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericjared29@gmail.com)
