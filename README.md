@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, Coders! I am <a href="https://chipper-taffy-e8cd4c.netlify.app/">Eric</a> 🧑‍💻</h1>
+<h1 align="center">Hi, Coders! I am <a href="https://ericvilleda.netlify.app/">Eric</a> 🧑‍💻</h1>
 </div>
 
 <img src="https://i.imgur.com/VvkdEvZ.png">
@@ -9,27 +9,26 @@
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ericjared29)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EricV29)
 
-
 ## About Me ✌
+
 - 📱🖥️ I’ve recently learned how to create: **Desktop and web applications**
 
 - 🤓 I’m currently learning: **C# .NET**
 
 - 🤝 I’m eager to team up on: **Exciting open source initiatives**
-  
 - 📜 Fun fact: **The first "bug" in history was a moth that caused a malfunction in the Harvard Mark II computer in 1947**
 
 ## Skills 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,html,nodejs,electron,react,mysql,postgres,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,cs,dotnet,html,nodejs,electron,react,astro,mysql,postgres,tailwind,git,supabase,docker,linux" />
   </a>
 </p>
 
 ## Projects </>
 
-## &nbsp;GitHub Analytics ⚙️ 
+## &nbsp;GitHub Analytics ⚙️
 
 <p align="center">
 <a href="https://github.com/EricV29">
