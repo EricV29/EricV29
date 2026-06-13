@@ -1,32 +1,31 @@
 <div align="center">
-<h1 align="center">Hi, Coders! I am <a href="https://ericvilleda.netlify.app/">Eric</a> 🧑‍💻</h1>
+<h1 align="center">Hi, Coders! I am <a href="https://ericvilleda.netlify.app/">Eric</a></h1>
 </div>
 
 <img src="https://i.imgur.com/VvkdEvZ.png">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-villeda-reyes-584856281/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericjared29@gmail.com)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ericjared29)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EricV29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-villeda-reyes-584856281/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ericjared29@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EricV29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=fff)](https://ericvilleda.netlify.app/)
+
 
 ## About Me ✌
 
-- 📱🖥️ I’ve recently learned how to create: **Desktop and web applications**
+- 🏙️ Currently building: **Web Apps** with 3D maps using Mapbox + Three.js
+- 🤓 I'm currently learning: **Express and Google Cloud**
+- 🌐 Portfolio: **[ericvilleda.netlify.app](https://ericvilleda.netlify.app/)**
+- 📄 Thesis: **[Predicción de ataques cibernéticos utilizando técnicas de aprendizaje automático](http://dgsa.uaeh.edu.mx:8080/bibliotecadigital/handle/231104/7506)**
+- 📜 Fun fact: The first "bug" in history was a moth that caused a malfunction in the Harvard Mark II computer in 1947
 
-- 🤓 I’m currently learning: **C# .NET**
-
-- 🤝 I’m eager to team up on: **Exciting open source initiatives**
-- 📜 Fun fact: **The first "bug" in history was a moth that caused a malfunction in the Harvard Mark II computer in 1947**
 
 ## Skills 🚀
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,cs,dotnet,html,nodejs,electron,react,astro,mysql,postgres,tailwind,git,supabase,docker,linux" />
-  </a>
-</p>
-
-## Projects </>
+| Área | Tecnologías |
+| :--- | :--- |
+| **🎨 Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,javascript,typescript,vite,react,astro,tailwind,electron,threejs" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=gsap" align="middle" /></a> |
+| **⚙️ Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python,cpp,cs,dotnet,mysql,sqlite,postgres,supabase" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=sqlserver" align="middle" /></a> |
+| **🛠️ Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,git,docker,linux,pnpm" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=mapbox,opencode,cloudinary" align="middle" /></a> |
 
 ## &nbsp;GitHub Analytics ⚙️
 
