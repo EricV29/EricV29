@@ -25,7 +25,7 @@
 | :--- | :--- |
 | **🎨 Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,javascript,typescript,vite,react,astro,tailwind,electron,threejs" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=gsap" align="middle" /></a> |
 | **⚙️ Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python,cpp,cs,dotnet,mysql,sqlite,postgres,supabase" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=sqlserver" align="middle" /></a> |
-| **🛠️ Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,git,docker,linux,pnpm" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=mapbox,opencode,cloudinary" align="middle" /></a> |
+| **🛠️ Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,git,docker,linux,pnpm" align="middle" /></a> <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?i=mapbox,opencode,cloudinary,render,netlify" align="middle" /></a> |
 
 ## &nbsp;GitHub Analytics ⚙️
 
